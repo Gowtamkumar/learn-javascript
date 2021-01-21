@@ -5,8 +5,6 @@
     then you find km 300 animal.so show calculation
  */
 
-
-
 function AnimalCount(depth) {
     var animal = 0;
     if (depth <= 10) {
